@@ -12,7 +12,7 @@ A clone of the Disney+ streaming platform built using React, Vite, and Tailwind 
 
 ## Demo
 
-Check out the live demo here: [Disney+ Clone Demo](https://your-live-demo-link.com)
+Check out the live demo here: [Disney+ Clone Demo](https://disney-hotstar-ui-clone.vercel.app/)
 
 ## Tech Stack
 
